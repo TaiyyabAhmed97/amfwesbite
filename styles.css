@@ -20,6 +20,13 @@ a {
   display: inline-block;
 }
 
+.logo {
+  background: no-repeat url("logo.svg");
+  display: block;
+  width: 300px;
+  height: 300px;
+}
+
 .site-navigation {
     align-content: center;
 }
