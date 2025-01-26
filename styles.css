@@ -2,12 +2,8 @@ body {
   font-family: Helvetica;
   margin: 0;
 }
-a {
-  text-decoration: none;
-  color: #000;
-}
 .site-header { 
-  border-bottom: 1px solid #ccc;
+  border-bottom: 2px solid #ccc;
   padding: .5em 1em;
   display: flex;
   justify-content: center ;
@@ -19,6 +15,33 @@ a {
   margin: .6em 0;
   display: inline-block;
 }
+
+.title-container {
+  display: flex;
+  justify-content: center;
+  h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #0E8763;
+  }
+  border-bottom: 2px solid #ccc;
+  padding: .5em 1em;
+  background-color: antiquewhite;
+
+}
+
+.body-container {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.card {
+  border: 2px solid #ccc;
+  width: 100px;
+  height: fit-content;
+}
+
 
 .logo {
   background: no-repeat url("logo.svg");
