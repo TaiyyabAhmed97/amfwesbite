@@ -26,3 +26,7 @@ Al Mahmūd Academy
 
 Funeral Services
 	⁃	Separate land for 24/7 burial access free to all Muslims
+
+
+## TODO 04/09/2025
+* split page into 3 horizontal sections of varying heights like masjids website and sacred learning, then one seciont for programs, one for about us, and one for donation
